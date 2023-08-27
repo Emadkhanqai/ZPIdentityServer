@@ -1,0 +1,17 @@
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\bin\Debug\net6.0-windows\ZPIdentityServer-Windows.exe
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\bin\Debug\net6.0-windows\ZPIdentityServer-Windows.deps.json
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\bin\Debug\net6.0-windows\ZPIdentityServer-Windows.runtimeconfig.json
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\bin\Debug\net6.0-windows\ZPIdentityServer-Windows.dll
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\bin\Debug\net6.0-windows\ZPIdentityServer-Windows.pdb
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.csproj.AssemblyReference.cache
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer_Windows.Form1.resources
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.csproj.GenerateResource.cache
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.AssemblyInfoInputs.cache
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.AssemblyInfo.cs
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.csproj.CoreCompileInputs.cache
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.dll
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\refint\ZPIdentityServer-Windows.dll
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.pdb
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ZPIdentityServer-Windows.genruntimeconfig.cache
+C:\Users\Emad Khan\source\repos\ZPIdentityServer\ZPIdentityServer-Windows\obj\Debug\net6.0-windows\ref\ZPIdentityServer-Windows.dll

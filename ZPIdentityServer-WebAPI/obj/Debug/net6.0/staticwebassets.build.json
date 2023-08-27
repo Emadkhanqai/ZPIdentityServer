@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KW2zcRUyoMy6vE3jJep30K3+XAh8GJGHFu+yy/dlLI0=",
+  "Source": "ZPIdentityServer-WebAPI",
+  "BasePath": "_content/ZPIdentityServer-WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
